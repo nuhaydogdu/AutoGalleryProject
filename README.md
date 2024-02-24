@@ -6,7 +6,7 @@ This application includes a simple web application where users can enter, store 
 
 - HTML
 - CSS
--JavaScript
+- JavaScript
 
 ## Use
 
