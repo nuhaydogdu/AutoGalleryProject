@@ -24,4 +24,5 @@ This application includes a simple web application where users can enter, store 
 - Managing and sharing a project on GitHub.
 
 ## Screenshots
-![AutoGallery](https://github.com/nuhaydogdu/AutoGalleryProject/assets/81580228/af5f13ca-be23-438b-8997-9b75a6d94361)
+![AutoGallery](https://github.com/nuhaydogdu/AutoGalleryProject/assets/81580228/74946c73-de07-475e-bfbc-063de9620f94)
+
